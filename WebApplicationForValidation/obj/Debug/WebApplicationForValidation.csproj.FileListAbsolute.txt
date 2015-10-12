@@ -1,0 +1,6 @@
+E:\Practice Folder\WebApplicationForValidation\WebApplicationForValidation\bin\WebApplicationForValidation.dll.config
+E:\Practice Folder\WebApplicationForValidation\WebApplicationForValidation\bin\WebApplicationForValidation.dll
+E:\Practice Folder\WebApplicationForValidation\WebApplicationForValidation\bin\WebApplicationForValidation.pdb
+E:\Practice Folder\WebApplicationForValidation\WebApplicationForValidation\obj\Debug\WebApplicationForValidation.csprojResolveAssemblyReference.cache
+E:\Practice Folder\WebApplicationForValidation\WebApplicationForValidation\obj\Debug\WebApplicationForValidation.dll
+E:\Practice Folder\WebApplicationForValidation\WebApplicationForValidation\obj\Debug\WebApplicationForValidation.pdb
